@@ -1,0 +1,19 @@
+*{
+    background-color: rgb(188, 184, 132);
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+
+
+}
+div img{
+    width: 100px;
+    height: auto;
+    vertical-align: middle;
+    
+}
+div a {
+    font-size: 33px;
+}
